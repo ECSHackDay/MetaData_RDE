@@ -1,12 +1,16 @@
 Working Electrode Used :
-Active area of Working Electrode(cm2):
+Active area of Working Electrode:
+Unit for Active Area:
 Counter Electrode (optional):
 Reference Electrode(optional):
 Electrolyte Information
   Solvent:
   Solute:
   Viscosity(optional):
-  Molarity:
+  Unit for Viscosity:
   Redox Species:
+  Concentration:
+  Unit for Concentration:
 Temperature (optional):
+Unit for Temperature:
 Instrument Vendor:
