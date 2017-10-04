@@ -1,0 +1,12 @@
+Working Electrode Used :
+Active area of Working Electrode(cm2):
+Counter Electrode (optional):
+Reference Electrode(optional):
+Electrolyte Information
+  Solvent:
+  Solute:
+  Viscosity(optional):
+  Molarity:
+  Redox Species:
+Temperature (optional):
+Instrument Vendor:
