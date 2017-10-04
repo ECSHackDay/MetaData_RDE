@@ -1,0 +1,51 @@
+—Example RDE data file 1
+file-author:
+	name: Steven DeCaluwe
+	ORCID: 0000-0002-3356-8247
+reference:
+	doi:
+	authors:
+		-name: Steven DeCaluwe
+		-name: Daniel Parr
+	journal: ECS Data Hack
+	year: 2017
+experiment-type: rotating disc electrode
+instrument-type: Solartron Modulab
+rotation-speed: 100 Hz
+electrolyte:
+	solvent: H2O
+	solute: H2SO4
+	molarity: 1 M
+	viscosity:  1.0e-2 cm2/s
+working-electrode:
+	material: Pt
+	area: 1.0 cm2
+counter-electrode:
+	material: Pt
+reference-electrode:
+	material: Calomel
+redox-species:
+	-species: H+
+	-species: O2-
+temperature: 300 K
+datapoints:
+	-time:
+		-0.0 s
+	current: 0.005 mA
+	voltage: 100 mV
+	-time:
+		-0.02 s
+	current: -0.01 mA
+	voltage: 100 mV
+	-time:
+		-0.039 s
+	current: 0.0 mA
+	voltage: 100 mV
+	-time:
+		-0.059 s
+	current: -0.01 mA
+	voltage: 100 mV
+	-time:
+		-0.078 s
+	current: -0.005 mA
+	voltage: 100 mV
